@@ -17,7 +17,6 @@ const CATEGORY_STYLES = {
 };
 
 const baseColumns = [
-  { key: 'name', label: 'Kecamatan' },
   { key: 'miskinEkstrem', label: 'Miskin Ekstrem' },
   { key: 'miskin', label: 'Miskin' },
   { key: 'praSejahtera', label: 'Pra Sejahtera' },
@@ -53,7 +52,19 @@ AGE_GROUPS.forEach(age => {
   ageColumns.push({ key: `age_${age}_P`, label: `Perempuan Usia ${age} Tahun` });
 });
 
-const columns = [...baseColumns, ...ageColumns];
+const dataColumns = [...baseColumns, ...ageColumns];
+
+// Chunk array into smaller groups
+const chunkArray = (arr, size) => {
+  const result = [];
+  for (let i = 0; i < arr.length; i += size) {
+    result.push(arr.slice(i, i + size));
+  }
+  return result;
+};
+
+// We will split into chunks of 10 columns per table
+const columnChunks = chunkArray(dataColumns, 10);
 
 function formatCell(key, value) {
   if (value == null || value === undefined || value === '') return '-';
@@ -145,7 +156,7 @@ export default function DataTable({ socioData, selectedKecamatan, onKecamatanSel
   if (!socioData) return null;
 
   return (
-    <div className="data-table-wrapper" style={{ width: '100%', maxWidth: '100%', overflow: 'hidden' }}>
+    <div className="data-table-wrapper" style={{ display: 'grid', gridTemplateColumns: 'minmax(0, 1fr)' }}>
       <div className="chart-title">Tabel Data Lengkap IPDB</div>
       <div className="chart-subtitle">
         Semua data langsung dari file CSV — {dataArray.length} Kecamatan Kota Surabaya
@@ -155,23 +166,62 @@ export default function DataTable({ socioData, selectedKecamatan, onKecamatanSel
         className="table-container" 
         style={{ 
           width: '100%', 
-          overflowX: 'auto', 
+          overflowX: 'auto',
           overflowY: 'auto', 
-          maxHeight: '600px',
+          maxHeight: '65vh',
           display: 'block',
-          WebkitOverflowScrolling: 'touch'
+          WebkitOverflowScrolling: 'touch',
+          position: 'relative'
         }}
       >
-        <table className="data-table" style={{ width: 'max-content', minWidth: '100%', borderCollapse: 'collapse' }}>
+        <table className="data-table" style={{ width: 'max-content', borderCollapse: 'collapse' }}>
           <thead>
             <tr>
-              <th style={{ width: 40, whiteSpace: 'nowrap', padding: '12px 16px' }}>#</th>
-              {columns.map((col) => (
+              <th 
+                style={{ 
+                  width: 40, 
+                  whiteSpace: 'nowrap', 
+                  padding: '12px 16px',
+                  position: 'sticky',
+                  left: 0,
+                  zIndex: 30,
+                  background: 'var(--bg-tertiary)',
+                  borderRight: '1px solid var(--border-color)'
+                }}
+              >
+                #
+              </th>
+              <th
+                className={sortKey === 'name' ? 'sorted' : ''}
+                onClick={() => handleSort('name')}
+                style={{ 
+                  whiteSpace: 'nowrap', 
+                  padding: '12px 16px',
+                  position: 'sticky',
+                  left: 40,
+                  zIndex: 30,
+                  background: 'var(--bg-tertiary)',
+                  borderRight: '2px solid var(--border-color)'
+                }}
+              >
+                Kecamatan
+                <span className="sort-icon">
+                  {sortKey === 'name' ? (sortDir === 'asc' ? ' ▲' : ' ▼') : ''}
+                </span>
+              </th>
+              {dataColumns.map((col) => (
                 <th
                   key={col.key}
                   className={sortKey === col.key ? 'sorted' : ''}
                   onClick={() => handleSort(col.key)}
-                  style={{ whiteSpace: 'nowrap', padding: '12px 16px' }}
+                  style={{ 
+                    whiteSpace: 'nowrap', 
+                    padding: '12px 16px',
+                    position: 'sticky',
+                    top: 0,
+                    zIndex: 10,
+                    background: 'var(--bg-tertiary)'
+                  }}
                 >
                   {col.label}
                   <span className="sort-icon">
@@ -184,14 +234,45 @@ export default function DataTable({ socioData, selectedKecamatan, onKecamatanSel
           <tbody>
             {sortedData.map((row, idx) => {
               const catStyle = CATEGORY_STYLES[row.kategoriIPDB] || {};
+              const isActive = selectedKecamatan === row.name;
+              
               return (
                 <tr
                   key={row.name}
-                  className={selectedKecamatan === row.name ? 'active' : ''}
+                  className={isActive ? 'active' : ''}
                   onClick={() => onKecamatanSelect(row.name)}
                 >
-                  <td style={{ color: 'var(--text-muted)', fontSize: '0.75rem', whiteSpace: 'nowrap', padding: '10px 16px' }}>{idx + 1}</td>
-                  {columns.map((col) => (
+                  <td 
+                    style={{ 
+                      color: 'var(--text-muted)', 
+                      fontSize: '0.75rem', 
+                      whiteSpace: 'nowrap', 
+                      padding: '10px 16px',
+                      position: 'sticky',
+                      left: 0,
+                      zIndex: 20,
+                      background: isActive ? 'var(--accent-cyan-dim)' : 'var(--bg-card)',
+                      borderRight: '1px solid var(--border-color)'
+                    }}
+                  >
+                    {idx + 1}
+                  </td>
+                  <td 
+                    style={{ 
+                      fontWeight: 500, 
+                      color: 'var(--text-primary)', 
+                      whiteSpace: 'nowrap', 
+                      padding: '10px 16px',
+                      position: 'sticky',
+                      left: 40,
+                      zIndex: 20,
+                      background: isActive ? 'var(--accent-cyan-dim)' : 'var(--bg-card)',
+                      borderRight: '2px solid var(--border-color)'
+                    }}
+                  >
+                    {capitalize(String(row.name))}
+                  </td>
+                  {dataColumns.map((col) => (
                     <td key={col.key} style={{ whiteSpace: 'nowrap', padding: '10px 16px' }}>
                       {col.key === 'kategoriIPDB' ? (
                         <span

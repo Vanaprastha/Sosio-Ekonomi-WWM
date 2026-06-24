@@ -195,7 +195,7 @@ export default function DashboardPage() {
 
           {/* Data Table Tab */}
           {activeTab === 'data' && (
-            <section className="animate-in">
+            <section className="animate-in" style={{ display: 'grid', gridTemplateColumns: 'minmax(0, 1fr)' }}>
               <div className="chart-card full-width">
                 <DataTable
                   socioData={socioData}
