@@ -18,17 +18,27 @@ const CATEGORY_STYLES = {
 
 const baseColumns = [
   { key: 'name', label: 'Kecamatan' },
-  { key: 'ipdb2025', label: 'IPDB' },
-  { key: 'kategoriIPDB', label: 'Kategori' },
-  { key: 'iks', label: 'IKS' },
-  { key: 'population', label: 'Penduduk' },
-  { key: 'expenditure', label: 'Est. Pengeluaran' },
+  { key: 'miskinEkstrem', label: 'Miskin Ekstrem' },
+  { key: 'miskin', label: 'Miskin' },
+  { key: 'praSejahtera', label: 'Pra Sejahtera' },
+  { key: 'sejahtera', label: 'Sejahtera' },
+  { key: 'totalStatusKesejahteraan', label: 'TOTAL STATUS KESEJAHTERAAN' },
+  { key: 'iks', label: 'IKS (Indeks Kesejahteraan Sosial)' },
   { key: 'indeksSosial', label: 'Indeks Sosial' },
-  { key: 'faktorDemografi', label: 'Faktor Demografi' },
-  { key: 'dependencyRatio', label: 'Rasio Ketergantungan' },
-  { key: 'sexRatio', label: 'Rasio JK' },
-  { key: 'lajuPertumbuhan', label: 'Laju Pertumbuhan' },
-  { key: 'kepadatanPenduduk', label: 'Kepadatan' },
+  { key: 'pendudukUsia0_14', label: '0-14 Tahun (Non-Produktif)' },
+  { key: 'pendudukUsia15_64', label: '15-64 Tahun (Produktif)' },
+  { key: 'pendudukUsia65Plus', label: '65+ Tahun (Non-Produktif)' },
+  { key: 'rasioKetergantungan', label: 'Rasio Ketergantungan' },
+  { key: 'faktorDemografi', label: 'Faktor Demografi (1 - (Rasio Ketergantungan / 100))' },
+  { key: 'ipdb2025', label: 'IPDB 2025 (IKS x Faktor Demografi)' },
+  { key: 'kategoriIPDB', label: 'KATEGORI IPDB 2025' },
+  { key: 'estimasiPengeluaran', label: 'ESTIMASI PENGELUARAN SOSIO-DEMOGRAFI / KAPITA / BULAN (Rp)' },
+  { key: 'pendudukBPS', label: 'PENDUDUK KOTA SURABAYA BPS (Bulan Tahun)' },
+  { key: 'totalUsiaDanGender', label: 'TOTAL (Usia & Gender)' },
+  { key: 'lajuPertumbuhan', label: 'Laju Pertumbuhan 2020-2023 (%)' },
+  { key: 'distribusiPenduduk', label: 'Distribusi Penduduk (%)' },
+  { key: 'kepadatanPenduduk', label: 'Kepadatan Penduduk (Jiwa/km2)' },
+  { key: 'rasioJenisKelamin', label: 'Rasio Jenis Kelamin' }
 ];
 
 const AGE_GROUPS = [
@@ -57,22 +67,31 @@ function formatCell(key, value) {
       return capitalize(String(value));
     case 'kategoriIPDB':
       return value;
-    case 'population':
+    case 'miskinEkstrem':
+    case 'miskin':
+    case 'praSejahtera':
+    case 'sejahtera':
+    case 'totalStatusKesejahteraan':
+    case 'pendudukUsia0_14':
+    case 'pendudukUsia15_64':
+    case 'pendudukUsia65Plus':
+    case 'pendudukBPS':
+    case 'totalUsiaDanGender':
     case 'kepadatanPenduduk':
       return Number(value).toLocaleString('id-ID');
-    case 'expenditure':
+    case 'estimasiPengeluaran':
       return 'Rp ' + Math.round(Number(value)).toLocaleString('id-ID');
     case 'ipdb2025':
     case 'iks':
     case 'indeksSosial':
     case 'faktorDemografi':
       return Number(value).toFixed(4);
-    case 'dependencyRatio':
-      return Number(value).toFixed(2) + '%';
-    case 'sexRatio':
-      return Number(value).toFixed(2);
+    case 'rasioKetergantungan':
     case 'lajuPertumbuhan':
+    case 'distribusiPenduduk':
       return Number(value).toFixed(2) + '%';
+    case 'rasioJenisKelamin':
+      return Number(value).toFixed(2);
     default:
       return value;
   }
