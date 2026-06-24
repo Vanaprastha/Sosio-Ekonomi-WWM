@@ -1,0 +1,2916 @@
+{
+  "ASEM ROWO": {
+    "population": 48849,
+    "expenditure": 2942385,
+    "totalMale": 24650,
+    "totalFemale": 24199,
+    "sexRatio": 101.86,
+    "productiveAge": 33949,
+    "productiveAgePct": 69.5,
+    "youthPopulation": 12221,
+    "elderlyPopulation": 2679,
+    "dependencyRatio": 43.89,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 1952,
+        "female": 1776
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 2209,
+        "female": 2094
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 2145,
+        "female": 2045
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 2155,
+        "female": 2002
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 2028,
+        "female": 1946
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 1953,
+        "female": 1988
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 1953,
+        "female": 1859
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 1796,
+        "female": 1768
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 1990,
+        "female": 1882
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 1726,
+        "female": 1791
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 1480,
+        "female": 1537
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 1203,
+        "female": 1173
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 844,
+        "female": 875
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 588,
+        "female": 716
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 346,
+        "female": 375
+      },
+      {
+        "ageGroup": ">75",
+        "male": 282,
+        "female": 372
+      }
+    ]
+  },
+  "BENOWO": {
+    "population": 75716,
+    "expenditure": 3099119,
+    "totalMale": 37797,
+    "totalFemale": 37919,
+    "sexRatio": 99.68,
+    "productiveAge": 54601,
+    "productiveAgePct": 72.11,
+    "youthPopulation": 17023,
+    "elderlyPopulation": 4092,
+    "dependencyRatio": 38.67,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 2533,
+        "female": 2291
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 3011,
+        "female": 2807
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 3310,
+        "female": 3071
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 3287,
+        "female": 3109
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 3098,
+        "female": 3169
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 3002,
+        "female": 3025
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 2910,
+        "female": 2835
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 2474,
+        "female": 2563
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 3107,
+        "female": 3234
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 2831,
+        "female": 3100
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 2636,
+        "female": 2735
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 2068,
+        "female": 2197
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1542,
+        "female": 1679
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1065,
+        "female": 1048
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 564,
+        "female": 549
+      },
+      {
+        "ageGroup": ">75",
+        "male": 359,
+        "female": 507
+      }
+    ]
+  },
+  "BUBUTAN": {
+    "population": 95522,
+    "expenditure": 2851129,
+    "totalMale": 47274,
+    "totalFemale": 48248,
+    "sexRatio": 97.98,
+    "productiveAge": 66823,
+    "productiveAgePct": 69.96,
+    "youthPopulation": 20234,
+    "elderlyPopulation": 8465,
+    "dependencyRatio": 42.95,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 2899,
+        "female": 2734
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 3597,
+        "female": 3429
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 3916,
+        "female": 3659
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 3970,
+        "female": 3699
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 3938,
+        "female": 3725
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 3722,
+        "female": 3554
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 3444,
+        "female": 3377
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 3168,
+        "female": 3083
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 3557,
+        "female": 3625
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 3427,
+        "female": 3550
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 3224,
+        "female": 3483
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 2803,
+        "female": 3041
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 2059,
+        "female": 2374
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1548,
+        "female": 1872
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 991,
+        "female": 1273
+      },
+      {
+        "ageGroup": ">75",
+        "male": 1011,
+        "female": 1770
+      }
+    ]
+  },
+  "BULAK": {
+    "population": 48118,
+    "expenditure": 3001818,
+    "totalMale": 23922,
+    "totalFemale": 24196,
+    "sexRatio": 98.87,
+    "productiveAge": 34131,
+    "productiveAgePct": 70.93,
+    "youthPopulation": 11052,
+    "elderlyPopulation": 2935,
+    "dependencyRatio": 40.98,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 1580,
+        "female": 1502
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 1938,
+        "female": 1951
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 2075,
+        "female": 2006
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 2066,
+        "female": 2033
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 2107,
+        "female": 1900
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 1860,
+        "female": 1850
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 1798,
+        "female": 1842
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 1704,
+        "female": 1687
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 1981,
+        "female": 1980
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 1748,
+        "female": 1790
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 1611,
+        "female": 1653
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 1272,
+        "female": 1298
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 952,
+        "female": 999
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 607,
+        "female": 719
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 329,
+        "female": 449
+      },
+      {
+        "ageGroup": ">75",
+        "male": 294,
+        "female": 537
+      }
+    ]
+  },
+  "DUKUH PAKIS": {
+    "population": 59185,
+    "expenditure": 2922015,
+    "totalMale": 29289,
+    "totalFemale": 29896,
+    "sexRatio": 97.97,
+    "productiveAge": 41435,
+    "productiveAgePct": 70.01,
+    "youthPopulation": 12100,
+    "elderlyPopulation": 5650,
+    "dependencyRatio": 42.84,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 1685,
+        "female": 1496
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 2222,
+        "female": 2012
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 2410,
+        "female": 2275
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 2389,
+        "female": 2175
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 2238,
+        "female": 2112
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 2114,
+        "female": 2067
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 2103,
+        "female": 2180
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 2046,
+        "female": 2142
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 2575,
+        "female": 2594
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 2322,
+        "female": 2402
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 1910,
+        "female": 2064
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 1603,
+        "female": 1708
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1161,
+        "female": 1530
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1037,
+        "female": 1247
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 772,
+        "female": 925
+      },
+      {
+        "ageGroup": ">75",
+        "male": 702,
+        "female": 967
+      }
+    ]
+  },
+  "GAYUNGAN": {
+    "population": 4348,
+    "expenditure": 2987260,
+    "totalMale": 21240,
+    "totalFemale": 22240,
+    "sexRatio": 95.5,
+    "productiveAge": -8284,
+    "productiveAgePct": -190.52,
+    "youthPopulation": 8824,
+    "elderlyPopulation": 3808,
+    "dependencyRatio": -152.49,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 1196,
+        "female": 1071
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 1599,
+        "female": 1494
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 1777,
+        "female": 1687
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 1764,
+        "female": 1715
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 1715,
+        "female": 1702
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 1546,
+        "female": 1583
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 1511,
+        "female": 1653
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 1374,
+        "female": 1501
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 1687,
+        "female": 1761
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 1657,
+        "female": 1778
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 1509,
+        "female": 1569
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 1301,
+        "female": 1443
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 958,
+        "female": 1121
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 688,
+        "female": 888
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 486,
+        "female": 562
+      },
+      {
+        "ageGroup": ">75",
+        "male": 472,
+        "female": 712
+      }
+    ]
+  },
+  "GENTENG": {
+    "population": 57255,
+    "expenditure": 2761570,
+    "totalMale": 28016,
+    "totalFemale": 29239,
+    "sexRatio": 95.82,
+    "productiveAge": 39546,
+    "productiveAgePct": 69.07,
+    "youthPopulation": 11325,
+    "elderlyPopulation": 6384,
+    "dependencyRatio": 44.78,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 1517,
+        "female": 1454
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 2010,
+        "female": 1992
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 2221,
+        "female": 2131
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 2240,
+        "female": 2212
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 2229,
+        "female": 2166
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 2096,
+        "female": 1987
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 2114,
+        "female": 1951
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 1913,
+        "female": 1870
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 2211,
+        "female": 2320
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 1998,
+        "female": 2063
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 1883,
+        "female": 1988
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 1617,
+        "female": 1772
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1378,
+        "female": 1538
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1062,
+        "female": 1306
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 729,
+        "female": 1112
+      },
+      {
+        "ageGroup": ">75",
+        "male": 798,
+        "female": 1377
+      }
+    ]
+  },
+  "GUBENG": {
+    "population": 131164,
+    "expenditure": 2953007,
+    "totalMale": 64065,
+    "totalFemale": 67099,
+    "sexRatio": 95.48,
+    "productiveAge": 92260,
+    "productiveAgePct": 70.34,
+    "youthPopulation": 25172,
+    "elderlyPopulation": 13732,
+    "dependencyRatio": 42.17,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 3448,
+        "female": 3164
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 4588,
+        "female": 4258
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 5081,
+        "female": 4633
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 5116,
+        "female": 4839
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 5076,
+        "female": 4903
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 4860,
+        "female": 4787
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 4502,
+        "female": 4554
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 4143,
+        "female": 4136
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 4758,
+        "female": 5034
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 4780,
+        "female": 5135
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 4659,
+        "female": 5022
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 4126,
+        "female": 4761
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 3306,
+        "female": 3763
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 2370,
+        "female": 2997
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 1589,
+        "female": 2113
+      },
+      {
+        "ageGroup": ">75",
+        "male": 1663,
+        "female": 3000
+      }
+    ]
+  },
+  "GUNUNG ANYAR": {
+    "population": 62669,
+    "expenditure": 3066696,
+    "totalMale": 30950,
+    "totalFemale": 31719,
+    "sexRatio": 97.58,
+    "productiveAge": 44612,
+    "productiveAgePct": 71.19,
+    "youthPopulation": 13452,
+    "elderlyPopulation": 4605,
+    "dependencyRatio": 40.48,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 1948,
+        "female": 1732
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 2406,
+        "female": 2347
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 2630,
+        "female": 2389
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 2505,
+        "female": 2286
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 2336,
+        "female": 2237
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 2314,
+        "female": 2408
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 2311,
+        "female": 2462
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 2219,
+        "female": 2240
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 2636,
+        "female": 2723
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 2421,
+        "female": 2648
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 2139,
+        "female": 2220
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 1713,
+        "female": 1937
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1327,
+        "female": 1530
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 942,
+        "female": 1111
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 636,
+        "female": 736
+      },
+      {
+        "ageGroup": ">75",
+        "male": 467,
+        "female": 713
+      }
+    ]
+  },
+  "JAMBANGAN": {
+    "population": 5414,
+    "expenditure": 2947482,
+    "totalMale": 26778,
+    "totalFemale": 27362,
+    "sexRatio": 97.87,
+    "productiveAge": -10449,
+    "productiveAgePct": -193.0,
+    "youthPopulation": 11734,
+    "elderlyPopulation": 4129,
+    "dependencyRatio": -151.81,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 1616,
+        "female": 1485
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 2104,
+        "female": 1983
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 2380,
+        "female": 2166
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 2250,
+        "female": 2081
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 2077,
+        "female": 2092
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 1926,
+        "female": 1940
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 1965,
+        "female": 2033
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 1849,
+        "female": 1970
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 2257,
+        "female": 2342
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 2049,
+        "female": 2108
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 1822,
+        "female": 1901
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 1494,
+        "female": 1648
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1092,
+        "female": 1381
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 878,
+        "female": 1028
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 568,
+        "female": 642
+      },
+      {
+        "ageGroup": ">75",
+        "male": 451,
+        "female": 562
+      }
+    ]
+  },
+  "KARANG PILANG": {
+    "population": 75164,
+    "expenditure": 2920434,
+    "totalMale": 37149,
+    "totalFemale": 38015,
+    "sexRatio": 97.72,
+    "productiveAge": 53561,
+    "productiveAgePct": 71.26,
+    "youthPopulation": 15662,
+    "elderlyPopulation": 5941,
+    "dependencyRatio": 40.33,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 2209,
+        "female": 2069
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 2856,
+        "female": 2659
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 2982,
+        "female": 2887
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 3019,
+        "female": 2826
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 2942,
+        "female": 2862
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 2839,
+        "female": 2812
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 2960,
+        "female": 3005
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 2660,
+        "female": 2760
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 2988,
+        "female": 3060
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 2738,
+        "female": 2744
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 2418,
+        "female": 2638
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 2130,
+        "female": 2363
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1649,
+        "female": 2148
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1350,
+        "female": 1556
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 849,
+        "female": 871
+      },
+      {
+        "ageGroup": ">75",
+        "male": 560,
+        "female": 755
+      }
+    ]
+  },
+  "KENJERAN": {
+    "population": 186189,
+    "expenditure": 2889226,
+    "totalMale": 93558,
+    "totalFemale": 92631,
+    "sexRatio": 101.0,
+    "productiveAge": 130222,
+    "productiveAgePct": 69.94,
+    "youthPopulation": 46085,
+    "elderlyPopulation": 9882,
+    "dependencyRatio": 42.98,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 7234,
+        "female": 6679
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 8388,
+        "female": 7966
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 8154,
+        "female": 7664
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 8065,
+        "female": 7487
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 7671,
+        "female": 7600
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 7440,
+        "female": 7744
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 7649,
+        "female": 7514
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 7035,
+        "female": 6731
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 7228,
+        "female": 7370
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 6489,
+        "female": 6553
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 5492,
+        "female": 5774
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 4644,
+        "female": 4707
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 3318,
+        "female": 3711
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 2488,
+        "female": 2530
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 1320,
+        "female": 1426
+      },
+      {
+        "ageGroup": ">75",
+        "male": 943,
+        "female": 1175
+      }
+    ]
+  },
+  "KREMBANGAN": {
+    "population": 11389,
+    "expenditure": 2800255,
+    "totalMale": 56569,
+    "totalFemale": 57321,
+    "sexRatio": 98.69,
+    "productiveAge": -23302,
+    "productiveAgePct": -204.6,
+    "youthPopulation": 25260,
+    "elderlyPopulation": 9431,
+    "dependencyRatio": -148.88,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 3740,
+        "female": 3420
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 4608,
+        "female": 4215
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 4753,
+        "female": 4524
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 4631,
+        "female": 4565
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 4662,
+        "female": 4397
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 4425,
+        "female": 4298
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 4329,
+        "female": 4185
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 3902,
+        "female": 3835
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 4310,
+        "female": 4359
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 3988,
+        "female": 4146
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 3742,
+        "female": 3887
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 3086,
+        "female": 3352
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 2327,
+        "female": 2773
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1781,
+        "female": 2179
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 1118,
+        "female": 1379
+      },
+      {
+        "ageGroup": ">75",
+        "male": 1167,
+        "female": 1807
+      }
+    ]
+  },
+  "LAKARSANTRI": {
+    "population": 65497,
+    "expenditure": 3024780,
+    "totalMale": 32668,
+    "totalFemale": 32829,
+    "sexRatio": 99.51,
+    "productiveAge": 47051,
+    "productiveAgePct": 71.84,
+    "youthPopulation": 14181,
+    "elderlyPopulation": 4265,
+    "dependencyRatio": 39.2,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 1998,
+        "female": 1897
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 2557,
+        "female": 2467
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 2701,
+        "female": 2561
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 2786,
+        "female": 2597
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 2597,
+        "female": 2607
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 2556,
+        "female": 2579
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 2491,
+        "female": 2532
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 2342,
+        "female": 2391
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 2595,
+        "female": 2776
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 2555,
+        "female": 2558
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 2303,
+        "female": 2327
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 1832,
+        "female": 1851
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1351,
+        "female": 1425
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 991,
+        "female": 983
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 541,
+        "female": 573
+      },
+      {
+        "ageGroup": ">75",
+        "male": 472,
+        "female": 705
+      }
+    ]
+  },
+  "MULYOREJO": {
+    "population": 87932,
+    "expenditure": 2940635,
+    "totalMale": 43125,
+    "totalFemale": 44807,
+    "sexRatio": 96.25,
+    "productiveAge": 61824,
+    "productiveAgePct": 70.31,
+    "youthPopulation": 17459,
+    "elderlyPopulation": 8649,
+    "dependencyRatio": 42.23,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 2443,
+        "female": 2250
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 3163,
+        "female": 2950
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 3419,
+        "female": 3234
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 3469,
+        "female": 3157
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 3450,
+        "female": 3268
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 3263,
+        "female": 3225
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 3220,
+        "female": 3389
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 3140,
+        "female": 3160
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 3432,
+        "female": 3729
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 3326,
+        "female": 3529
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 2888,
+        "female": 3057
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 2399,
+        "female": 2676
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1852,
+        "female": 2195
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1494,
+        "female": 1902
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 1099,
+        "female": 1366
+      },
+      {
+        "ageGroup": ">75",
+        "male": 1068,
+        "female": 1720
+      }
+    ]
+  },
+  "PABEAN CANTIAN": {
+    "population": 72505,
+    "expenditure": 2697183,
+    "totalMale": 35943,
+    "totalFemale": 36562,
+    "sexRatio": 98.31,
+    "productiveAge": 50045,
+    "productiveAgePct": 69.02,
+    "youthPopulation": 15945,
+    "elderlyPopulation": 6515,
+    "dependencyRatio": 44.88,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 2378,
+        "female": 2166
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 2935,
+        "female": 2766
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 2938,
+        "female": 2762
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 3021,
+        "female": 2871
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 3033,
+        "female": 2777
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 2750,
+        "female": 2643
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 2624,
+        "female": 2666
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 2482,
+        "female": 2381
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 2807,
+        "female": 2773
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 2672,
+        "female": 2623
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 2352,
+        "female": 2424
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 1889,
+        "female": 2143
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1398,
+        "female": 1716
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1089,
+        "female": 1455
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 810,
+        "female": 1062
+      },
+      {
+        "ageGroup": ">75",
+        "male": 765,
+        "female": 1334
+      }
+    ]
+  },
+  "PAKAL": {
+    "population": 65486,
+    "expenditure": 3051263,
+    "totalMale": 32859,
+    "totalFemale": 32627,
+    "sexRatio": 100.71,
+    "productiveAge": 47099,
+    "productiveAgePct": 71.92,
+    "youthPopulation": 14611,
+    "elderlyPopulation": 3776,
+    "dependencyRatio": 39.04,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 2151,
+        "female": 2050
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 2590,
+        "female": 2509
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 2726,
+        "female": 2585
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 2795,
+        "female": 2585
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 2674,
+        "female": 2631
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 2687,
+        "female": 2621
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 2575,
+        "female": 2589
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 2295,
+        "female": 2255
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 2661,
+        "female": 2675
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 2450,
+        "female": 2577
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 2315,
+        "female": 2324
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 1862,
+        "female": 1959
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1277,
+        "female": 1292
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 934,
+        "female": 915
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 513,
+        "female": 549
+      },
+      {
+        "ageGroup": ">75",
+        "male": 354,
+        "female": 511
+      }
+    ]
+  },
+  "RUNGKUT": {
+    "population": 123956,
+    "expenditure": 3009578,
+    "totalMale": 61091,
+    "totalFemale": 62865,
+    "sexRatio": 97.18,
+    "productiveAge": 88129,
+    "productiveAgePct": 71.1,
+    "youthPopulation": 26170,
+    "elderlyPopulation": 9657,
+    "dependencyRatio": 40.65,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 3603,
+        "female": 3375
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 4791,
+        "female": 4531
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 5097,
+        "female": 4773
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 4915,
+        "female": 4570
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 4663,
+        "female": 4475
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 4592,
+        "female": 4632
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 4640,
+        "female": 4858
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 4550,
+        "female": 4569
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 5037,
+        "female": 5303
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 4600,
+        "female": 5114
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 4240,
+        "female": 4409
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 3417,
+        "female": 3747
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 2568,
+        "female": 3230
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 2053,
+        "female": 2354
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 1325,
+        "female": 1402
+      },
+      {
+        "ageGroup": ">75",
+        "male": 1000,
+        "female": 1523
+      }
+    ]
+  },
+  "SAMBIKEREP": {
+    "population": 69584,
+    "expenditure": 2946295,
+    "totalMale": 34491,
+    "totalFemale": 35093,
+    "sexRatio": 98.28,
+    "productiveAge": 49620,
+    "productiveAgePct": 71.31,
+    "youthPopulation": 14867,
+    "elderlyPopulation": 5097,
+    "dependencyRatio": 40.23,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 2112,
+        "female": 2026
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 2606,
+        "female": 2507
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 2897,
+        "female": 2719
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 2806,
+        "female": 2738
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 2811,
+        "female": 2589
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 2610,
+        "female": 2665
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 2642,
+        "female": 2817
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 2475,
+        "female": 2512
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 2784,
+        "female": 2966
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 2675,
+        "female": 2784
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 2408,
+        "female": 2504
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 1937,
+        "female": 1908
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1423,
+        "female": 1566
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1049,
+        "female": 1190
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 700,
+        "female": 805
+      },
+      {
+        "ageGroup": ">75",
+        "male": 556,
+        "female": 797
+      }
+    ]
+  },
+  "SAWAHAN": {
+    "population": 196811,
+    "expenditure": 2865094,
+    "totalMale": 97189,
+    "totalFemale": 99622,
+    "sexRatio": 97.56,
+    "productiveAge": 139286,
+    "productiveAgePct": 70.77,
+    "youthPopulation": 40226,
+    "elderlyPopulation": 17299,
+    "dependencyRatio": 41.3,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 5597,
+        "female": 5263
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 7120,
+        "female": 6734
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 7949,
+        "female": 7563
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 8136,
+        "female": 7673
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 7990,
+        "female": 7566
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 7449,
+        "female": 7139
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 6790,
+        "female": 6691
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 6384,
+        "female": 6353
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 7809,
+        "female": 7969
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 7444,
+        "female": 7674
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 7135,
+        "female": 7592
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 5781,
+        "female": 6323
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 4365,
+        "female": 5023
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 3095,
+        "female": 4059
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 2134,
+        "female": 2765
+      },
+      {
+        "ageGroup": ">75",
+        "male": 2011,
+        "female": 3235
+      }
+    ]
+  },
+  "SEMAMPIR": {
+    "population": 181769,
+    "expenditure": 2697765,
+    "totalMale": 91087,
+    "totalFemale": 90682,
+    "sexRatio": 100.45,
+    "productiveAge": 123766,
+    "productiveAgePct": 68.09,
+    "youthPopulation": 44993,
+    "elderlyPopulation": 13010,
+    "dependencyRatio": 46.87,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 6838,
+        "female": 6331
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 7999,
+        "female": 7765
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 8322,
+        "female": 7738
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 8015,
+        "female": 7539
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 7586,
+        "female": 7171
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 7268,
+        "female": 6840
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 6924,
+        "female": 6727
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 6535,
+        "female": 6267
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 6825,
+        "female": 6741
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 6403,
+        "female": 6305
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 5520,
+        "female": 5558
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 4304,
+        "female": 4612
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 3060,
+        "female": 3566
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 2385,
+        "female": 3128
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 1569,
+        "female": 2063
+      },
+      {
+        "ageGroup": ">75",
+        "male": 1534,
+        "female": 2331
+      }
+    ]
+  },
+  "SIMOKERTO": {
+    "population": 90663,
+    "expenditure": 2772548,
+    "totalMale": 45092,
+    "totalFemale": 45571,
+    "sexRatio": 98.95,
+    "productiveAge": 62273,
+    "productiveAgePct": 68.69,
+    "youthPopulation": 19909,
+    "elderlyPopulation": 8481,
+    "dependencyRatio": 45.59,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 2884,
+        "female": 2766
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 3577,
+        "female": 3337
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 3849,
+        "female": 3496
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 3593,
+        "female": 3510
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 3736,
+        "female": 3392
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 3497,
+        "female": 3182
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 3360,
+        "female": 3245
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 3133,
+        "female": 2979
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 3574,
+        "female": 3457
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 3291,
+        "female": 3266
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 2867,
+        "female": 3053
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 2484,
+        "female": 2680
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1811,
+        "female": 2163
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1483,
+        "female": 1911
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 950,
+        "female": 1328
+      },
+      {
+        "ageGroup": ">75",
+        "male": 1003,
+        "female": 1806
+      }
+    ]
+  },
+  "SUKOLILO": {
+    "population": 115944,
+    "expenditure": 2925379,
+    "totalMale": 57095,
+    "totalFemale": 58849,
+    "sexRatio": 97.02,
+    "productiveAge": 81306,
+    "productiveAgePct": 70.13,
+    "youthPopulation": 24576,
+    "elderlyPopulation": 10062,
+    "dependencyRatio": 42.6,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 3429,
+        "female": 3284
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 4492,
+        "female": 4204
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 4712,
+        "female": 4455
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 4561,
+        "female": 4332
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 4434,
+        "female": 4356
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 4181,
+        "female": 4138
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 4315,
+        "female": 4504
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 4096,
+        "female": 4335
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 4854,
+        "female": 4947
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 4390,
+        "female": 4540
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 3700,
+        "female": 3956
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 3072,
+        "female": 3388
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 2318,
+        "female": 2889
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 2047,
+        "female": 2390
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 1309,
+        "female": 1516
+      },
+      {
+        "ageGroup": ">75",
+        "male": 1185,
+        "female": 1615
+      }
+    ]
+  },
+  "SUKOMANUNGGAL": {
+    "population": 102681,
+    "expenditure": 2897988,
+    "totalMale": 50977,
+    "totalFemale": 51704,
+    "sexRatio": 98.59,
+    "productiveAge": 72025,
+    "productiveAgePct": 70.14,
+    "youthPopulation": 21602,
+    "elderlyPopulation": 9054,
+    "dependencyRatio": 42.56,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 2995,
+        "female": 2843
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 3981,
+        "female": 3709
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 4194,
+        "female": 3880
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 4060,
+        "female": 3797
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 3924,
+        "female": 3745
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 3785,
+        "female": 3682
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 3711,
+        "female": 3799
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 3747,
+        "female": 3768
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 4612,
+        "female": 4537
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 4020,
+        "female": 4106
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 3301,
+        "female": 3493
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 2542,
+        "female": 2837
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 2034,
+        "female": 2525
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1763,
+        "female": 2141
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 1262,
+        "female": 1471
+      },
+      {
+        "ageGroup": ">75",
+        "male": 1046,
+        "female": 1371
+      }
+    ]
+  },
+  "TAMBAKSARI": {
+    "population": 225939,
+    "expenditure": 2885498,
+    "totalMale": 111653,
+    "totalFemale": 114286,
+    "sexRatio": 97.7,
+    "productiveAge": 159117,
+    "productiveAgePct": 70.42,
+    "youthPopulation": 46716,
+    "elderlyPopulation": 20106,
+    "dependencyRatio": 42.0,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 6512,
+        "female": 6107
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 8280,
+        "female": 7969
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 9153,
+        "female": 8695
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 9290,
+        "female": 8572
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 8872,
+        "female": 8541
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 8485,
+        "female": 7999
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 8236,
+        "female": 8099
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 7811,
+        "female": 7858
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 9125,
+        "female": 9267
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 8289,
+        "female": 8567
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 7530,
+        "female": 8017
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 6409,
+        "female": 6999
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 5015,
+        "female": 6136
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 3931,
+        "female": 4721
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 2586,
+        "female": 3184
+      },
+      {
+        "ageGroup": ">75",
+        "male": 2129,
+        "female": 3555
+      }
+    ]
+  },
+  "TANDES": {
+    "population": 90999,
+    "expenditure": 2982414,
+    "totalMale": 44684,
+    "totalFemale": 46315,
+    "sexRatio": 96.48,
+    "productiveAge": 63869,
+    "productiveAgePct": 70.19,
+    "youthPopulation": 19301,
+    "elderlyPopulation": 7829,
+    "dependencyRatio": 42.48,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 2639,
+        "female": 2521
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 3414,
+        "female": 3265
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 3800,
+        "female": 3662
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 3901,
+        "female": 3664
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 3522,
+        "female": 3483
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 3219,
+        "female": 3138
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 3130,
+        "female": 3275
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 3077,
+        "female": 3078
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 3825,
+        "female": 3997
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 3797,
+        "female": 3754
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 3097,
+        "female": 3421
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 2340,
+        "female": 2455
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1664,
+        "female": 2032
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1288,
+        "female": 1968
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 1031,
+        "female": 1410
+      },
+      {
+        "ageGroup": ">75",
+        "male": 940,
+        "female": 1192
+      }
+    ]
+  },
+  "TEGALSARI": {
+    "population": 96237,
+    "expenditure": 2805789,
+    "totalMale": 47339,
+    "totalFemale": 48898,
+    "sexRatio": 96.81,
+    "productiveAge": 67427,
+    "productiveAgePct": 70.06,
+    "youthPopulation": 19609,
+    "elderlyPopulation": 9201,
+    "dependencyRatio": 42.73,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 2633,
+        "female": 2594
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 3495,
+        "female": 3390
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 3837,
+        "female": 3660
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 3871,
+        "female": 3639
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 3829,
+        "female": 3607
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 3650,
+        "female": 3404
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 3443,
+        "female": 3350
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 3217,
+        "female": 3154
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 3771,
+        "female": 3868
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 3501,
+        "female": 3595
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 3190,
+        "female": 3391
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 2825,
+        "female": 3151
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 2240,
+        "female": 2731
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1702,
+        "female": 2177
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 1100,
+        "female": 1441
+      },
+      {
+        "ageGroup": ">75",
+        "male": 1035,
+        "female": 1746
+      }
+    ]
+  },
+  "TENGGILIS MEJOYO": {
+    "population": 58645,
+    "expenditure": 2994901,
+    "totalMale": 28810,
+    "totalFemale": 29835,
+    "sexRatio": 96.56,
+    "productiveAge": 41449,
+    "productiveAgePct": 70.68,
+    "youthPopulation": 12074,
+    "elderlyPopulation": 5122,
+    "dependencyRatio": 41.49,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 1591,
+        "female": 1586
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 2237,
+        "female": 2084
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 2302,
+        "female": 2274
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 2431,
+        "female": 2199
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 2193,
+        "female": 2086
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 2049,
+        "female": 2028
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 1984,
+        "female": 2179
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 2093,
+        "female": 2163
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 2542,
+        "female": 2666
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 2377,
+        "female": 2423
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 2031,
+        "female": 2080
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 1548,
+        "female": 1699
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1149,
+        "female": 1529
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1030,
+        "female": 1211
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 686,
+        "female": 774
+      },
+      {
+        "ageGroup": ">75",
+        "male": 567,
+        "female": 854
+      }
+    ]
+  },
+  "WIYUNG": {
+    "population": 7677,
+    "expenditure": 3043848,
+    "totalMale": 38157,
+    "totalFemale": 38613,
+    "sexRatio": 98.82,
+    "productiveAge": -13822,
+    "productiveAgePct": -180.04,
+    "youthPopulation": 15690,
+    "elderlyPopulation": 5809,
+    "dependencyRatio": -155.54,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 2250,
+        "female": 2115
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 2779,
+        "female": 2673
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 3100,
+        "female": 2773
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 3023,
+        "female": 2856
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 3025,
+        "female": 2926
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 3080,
+        "female": 2943
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 2954,
+        "female": 3043
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 2725,
+        "female": 2840
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 3042,
+        "female": 3131
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 2829,
+        "female": 2942
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 2614,
+        "female": 2806
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 2231,
+        "female": 2438
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1800,
+        "female": 2023
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1330,
+        "female": 1429
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 780,
+        "female": 788
+      },
+      {
+        "ageGroup": ">75",
+        "male": 595,
+        "female": 887
+      }
+    ]
+  },
+  "WONOCOLO": {
+    "population": 7953,
+    "expenditure": 2924654,
+    "totalMale": 39220,
+    "totalFemale": 40310,
+    "sexRatio": 97.3,
+    "productiveAge": -15559,
+    "productiveAgePct": -195.64,
+    "youthPopulation": 16589,
+    "elderlyPopulation": 6923,
+    "dependencyRatio": -151.12,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 2363,
+        "female": 2127
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 3041,
+        "female": 2901
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 3145,
+        "female": 3012
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 3227,
+        "female": 3068
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 3133,
+        "female": 2947
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 2974,
+        "female": 2915
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 2956,
+        "female": 2922
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 2608,
+        "female": 2661
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 3158,
+        "female": 3384
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 2988,
+        "female": 3201
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 2779,
+        "female": 2826
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 2174,
+        "female": 2412
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 1650,
+        "female": 2035
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 1277,
+        "female": 1606
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 919,
+        "female": 1085
+      },
+      {
+        "ageGroup": ">75",
+        "male": 828,
+        "female": 1208
+      }
+    ]
+  },
+  "WONOKROMO": {
+    "population": 151571,
+    "expenditure": 2970241,
+    "totalMale": 74340,
+    "totalFemale": 77231,
+    "sexRatio": 96.26,
+    "productiveAge": 108633,
+    "productiveAgePct": 71.67,
+    "youthPopulation": 29875,
+    "elderlyPopulation": 13063,
+    "dependencyRatio": 39.53,
+    "agePyramid": [
+      {
+        "ageGroup": "00-04",
+        "male": 4256,
+        "female": 3903
+      },
+      {
+        "ageGroup": "05-09",
+        "male": 5325,
+        "female": 5052
+      },
+      {
+        "ageGroup": "10-14",
+        "male": 5853,
+        "female": 5486
+      },
+      {
+        "ageGroup": "15-19",
+        "male": 6207,
+        "female": 5884
+      },
+      {
+        "ageGroup": "20-24",
+        "male": 6258,
+        "female": 6067
+      },
+      {
+        "ageGroup": "25-29",
+        "male": 5992,
+        "female": 5738
+      },
+      {
+        "ageGroup": "30-34",
+        "male": 5347,
+        "female": 5330
+      },
+      {
+        "ageGroup": "35-39",
+        "male": 4751,
+        "female": 4752
+      },
+      {
+        "ageGroup": "40-44",
+        "male": 5548,
+        "female": 5704
+      },
+      {
+        "ageGroup": "45-49",
+        "male": 5514,
+        "female": 6116
+      },
+      {
+        "ageGroup": "50-54",
+        "male": 5574,
+        "female": 6122
+      },
+      {
+        "ageGroup": "55-59",
+        "male": 4877,
+        "female": 5303
+      },
+      {
+        "ageGroup": "60-64",
+        "male": 3517,
+        "female": 4032
+      },
+      {
+        "ageGroup": "65-69",
+        "male": 2459,
+        "female": 3034
+      },
+      {
+        "ageGroup": "70-74",
+        "male": 1398,
+        "female": 2012
+      },
+      {
+        "ageGroup": ">75",
+        "male": 1464,
+        "female": 2696
+      }
+    ]
+  }
+}
